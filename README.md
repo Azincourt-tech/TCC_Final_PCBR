@@ -22,8 +22,11 @@ Analista de Desenvolvimento - Back-End e Devops
 
 
 Configurações necessárias para execução do projeto: 
+
 • Criar o banco de dados utilizando o script fornecido em “Script de Criação de Tabelas”
+
 • Povoar com o script “SQL de Testes”; 
+
 • Acessar o banco MS SQL SERVER utilizando o localhost e autenticação Windows;
 
 ____________________________________________________________________________________________
