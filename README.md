@@ -1,27 +1,36 @@
 # TCC_Final_PCBR
 
-PROJETO FINAL - PROTOCOLO BICICLETA COM RODINHAS
+**PROJETO FINAL - PROTOCOLO BICICLETA COM RODINHAS**
 
+**SQUAD ITUBAÍNA:**
 
-SQUAD ITUBAÍNA:
+*Augusto de Paulo Santos:*
 
-Augusto de Paulo Santos
 Analista de Desenvolvimento - Banco de Dados e Back-End
 
-Gustavo Silva Aguiar
+
+*Gustavo Silva Aguiar:*
+
 Analista de Desenvolvimento - Prototipação e Front-End
 
-Nelson Gomes Ferreira Mendes Neto
+
+*Nelson Gomes Ferreira Mendes Neto:*
+
 Analista de Desenvolvimento - Front-End
 
-Taynã Souza Malaquias
+
+*Taynã Souza Malaquias:*
+
 Analista de Desenvolvimento - Back-End
 
-Willian da Silva Almeida
+
+*Willian da Silva Almeida:*
+
 Analista de Desenvolvimento - Back-End e Devops
 
+----------------------------------------------------------------------------------------------
 
-Configurações necessárias para execução do projeto: 
+**Configurações necessárias para execução do projeto:** 
 
 • Criar o banco de dados utilizando o script fornecido em “Script de Criação de Tabelas”
 
@@ -31,7 +40,7 @@ Configurações necessárias para execução do projeto:
 
 ____________________________________________________________________________________________
 
-Script de Criação de Tabelas:
+**Script de Criação de Tabelas:**
 
 
 CREATE DATABASE SISTEMA_FINANCEIRO 
