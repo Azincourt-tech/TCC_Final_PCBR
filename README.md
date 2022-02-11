@@ -1,8 +1,8 @@
 # TCC_Final_PCBR
 
-**PROJETO FINAL - PROTOCOLO BICICLETA COM RODINHAS**
+# **PROJETO FINAL - PROTOCOLO BICICLETA COM RODINHAS**
 
-**SQUAD ITUBAÍNA:**
+### **SQUAD ITUBAÍNA:**
 
 *Augusto de Paulo Santos:*
 
@@ -30,7 +30,7 @@ Analista de Desenvolvimento - Back-End e Devops
 
 ----------------------------------------------------------------------------------------------
 
-**Configurações necessárias para execução do projeto:** 
+#### **Configurações necessárias para execução do projeto:** 
 
 • Criar o banco de dados utilizando o script fornecido em “Script de Criação de Tabelas”
 
@@ -40,8 +40,10 @@ Analista de Desenvolvimento - Back-End e Devops
 
 ____________________________________________________________________________________________
 
-**Script de Criação de Tabelas:**
+### **Script de Criação de Tabelas:**
 
+
+~~~SQL
 
 CREATE DATABASE SISTEMA_FINANCEIRO 
 
@@ -219,10 +221,6 @@ ON DELETE NO ACTION
 
 ON UPDATE NO ACTION 
 
-  
-
- 
-
  
 
 ALTER TABLE PAGAR ADD CONSTRAINT EMPRESAS_PAGAR_fk 
@@ -294,10 +292,13 @@ REFERENCES CLIENTES (CLI_ID)
 ON DELETE NO ACTION 
 
 ON UPDATE NO ACTION 
+~~~
 
 ____________________________________________________________________________________________________
 
-SQL de Testes
+### **SQL de Testes**
+
+~~~SQL
 
 INSERT INTO CIDADES 
 
@@ -398,3 +399,5 @@ INSERT INTO RECEBER
 VALUES 
 
 (1, 1, '1', '250', 'Sistema', GETDATE (), 'A') 
+
+~~~
